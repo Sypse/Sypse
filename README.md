@@ -1,7 +1,6 @@
-```js
-                                                           fuck u
-```
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/71714559/146659679-51e5117e-df4e-4e2a-83be-e6bd956248b2.gif" alt="fuck u" /> </p>
+<p align="middle">
+<a href="https://discord.com/users/220917726997250058" ><img src="https://lanyard-profile-readme.vercel.app/api/220917726997250058?idleMessage=In%20Visual%20Studio%20Code"/></a>
+</p>
 
-- 🐵🐒 ex-FaZe Member
+<h3 align="middle">🐵🐒 ex-FaZe Member</h3>
